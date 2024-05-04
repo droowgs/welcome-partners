@@ -194,5 +194,11 @@
     "tag": ["DeFi"],
     "logo": "GooseFX.png",
     "href": "https://www.goosefx.io/"
-  }
+  },
+    {
+    "name": "Aurory",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "Aurory.png",
+    "href": "https://www.aurory.io/"
 ]
